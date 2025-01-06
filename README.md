@@ -12,3 +12,4 @@
 
 4. And then pull postgresql image.
    4.1 #docker pull postgres:17
+   4.2 #docker run imageid
